@@ -1,0 +1,110 @@
+Significant correlations for handle vs total alcohol:
+Strong Correlations (|correlation| > 0.5):
+               correlation   p_value
+state                               
+Maine             1.000000  0.000000
+Massachusetts     0.554945  0.049004
+
+
+Significant correlations for handle vs beer:
+Strong Correlations (|correlation| > 0.5):
+               correlation   p_value
+state                               
+Maine             1.000000  0.000000
+Massachusetts     0.554945  0.049004
+
+
+Significant correlations for handle vs spirits:
+Strong Correlations (|correlation| > 0.5):
+               correlation   p_value
+state                               
+Maine             1.000000  0.000000
+Massachusetts     0.554945  0.049004
+
+
+Significant correlations for handle vs wine:
+Strong Correlations (|correlation| > 0.5):
+               correlation   p_value
+state                               
+Maine             1.000000  0.000000
+Massachusetts     0.554945  0.049004
+
+
+Significant correlations for hold vs total alcohol:
+Strong Correlations (|correlation| > 0.5):
+               correlation   p_value
+state                               
+West Virginia       0.5202  0.007684
+Weak Correlations (|correlation| <= 0.5):
+               correlation   p_value
+state                               
+Indiana           0.399307  0.047990
+New Hampshire     0.408006  0.042901
+New York          0.469388  0.017922
+
+
+Significant correlations for hold vs beer:
+Strong Correlations (|correlation| > 0.5):
+               correlation   p_value
+state                               
+West Virginia       0.5202  0.007684
+Weak Correlations (|correlation| <= 0.5):
+               correlation   p_value
+state                               
+Indiana           0.399307  0.047990
+New Hampshire     0.403002  0.045773
+New York          0.469388  0.017922
+
+
+Significant correlations for hold vs spirits:
+Strong Correlations (|correlation| > 0.5):
+               correlation   p_value
+state                               
+West Virginia       0.5202  0.007684
+Weak Correlations (|correlation| <= 0.5):
+          correlation   p_value
+state                          
+Indiana      0.399307  0.047990
+New York     0.452060  0.023285
+
+
+Significant correlations for hold vs wine:
+Strong Correlations (|correlation| > 0.5):
+               correlation   p_value
+state                               
+West Virginia       0.5202  0.007684
+Weak Correlations (|correlation| <= 0.5):
+          correlation   p_value
+state                          
+Indiana      0.399307  0.047990
+New York     0.469388  0.017922
+
+
+Significant correlations for gross revenue vs total alcohol:
+Strong Correlations (|correlation| > 0.5):
+               correlation   p_value
+state                               
+Massachusetts     0.576923  0.038993
+
+
+Significant correlations for gross revenue vs beer:
+Strong Correlations (|correlation| > 0.5):
+               correlation   p_value
+state                               
+Massachusetts     0.576923  0.038993
+
+
+Significant correlations for gross revenue vs spirits:
+Strong Correlations (|correlation| > 0.5):
+               correlation   p_value
+state                               
+Massachusetts     0.576923  0.038993
+
+
+Significant correlations for gross revenue vs wine:
+Strong Correlations (|correlation| > 0.5):
+               correlation   p_value
+state                               
+Massachusetts     0.576923  0.038993
+
+
